@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ScrollingWorld
+comment1.params=
+comment1.target=ScrollingWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ fillWorld()
+comment4.params=changeX
+comment4.target=void\ changeBackgroundX(int)
+comment5.params=
+comment5.target=java.util.List\ gibMirAlleActors()
+comment6.params=
+comment6.target=void\ drawBlackground()
+comment7.params=
+comment7.target=void\ prepare()
+comment7.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=8
